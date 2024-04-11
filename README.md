@@ -1,21 +1,21 @@
 # Powershell Script Cria servidores virtuais remotamente
 
-# Perguntas de requisitos solicitada pelo Script
-# Quantos Servidores Hyper-v Serão Usados:?
-# Digite o nome do Servidor Hyper-v:
-# Quantas VM's Serão Criadas no Servidor:
-# Digite o nome da VM:
-# Digite a Geração da VM (1 ou 2)
-# Digite o Caminho Para o Arquivo ISO:
-# Digite o Caminho onde a Pasta da VM Deve Residir no Servidor Hyper-v:
-# Digite o nome do vSwitch para VM:
-# A VM Precisará de uma VLAN?:
-# Digite o número da VLAN: (Se a Resposta For Sim no Passo Anterior)
-# Digite o Número de CPUS:
-# Digite a Quantidade de RAM:
-# Digite o tamanho do Disco:
-# *Mostra resumo do Deploy*
-# Deseja Processeguir com o Deploy?:
+Perguntas de requisitos solicitada pelo Script
+Quantos Servidores Hyper-v Serão Usados:?
+Digite o nome do Servidor Hyper-v:
+Quantas VM's Serão Criadas no Servidor:
+Digite o nome da VM:
+Digite a Geração da VM (1 ou 2)
+Digite o Caminho Para o Arquivo ISO:
+Digite o Caminho onde a Pasta da VM Deve Residir no Servidor Hyper-v:
+Digite o nome do vSwitch para VM:
+A VM Precisará de uma VLAN?:
+Digite o número da VLAN: (Se a Resposta For Sim no Passo Anterior)
+Digite o Número de CPUS:
+Digite a Quantidade de RAM:
+Digite o tamanho do Disco:
+*Mostra resumo do Deploy*
+Deseja Processeguir com o Deploy?:
 
 
 
