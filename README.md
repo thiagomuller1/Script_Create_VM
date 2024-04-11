@@ -12,3 +12,10 @@
 
 ![Creation](https://github.com/thiagomuller1/Script_Create_VM/assets/87444620/533df2b0-ada2-4c68-a10f-ec4d5799eaaf)
 
+![VM_G1](https://github.com/thiagomuller1/Script_Create_VM/assets/87444620/e1d9b82f-a3a8-42e7-a893-650003da8f16)
+
+![VM_G2](https://github.com/thiagomuller1/Script_Create_VM/assets/87444620/2131d0a3-4bbf-49b7-bbfb-818e93db14ae)
+
+![Settings_VM_G1](https://github.com/thiagomuller1/Script_Create_VM/assets/87444620/a629b950-78b6-4035-94a2-3642d3eebef9)
+
+![Settings_VM_G2](https://github.com/thiagomuller1/Script_Create_VM/assets/87444620/60f3d91e-2883-4c2f-b98b-3d22bd127970)
