@@ -25,8 +25,21 @@
 - *Mostra resumo do Deploy*
 - Deseja Processeguir com o Deploy?:
 
-
-
+# Configurações Automatizadas Pelo Script
+- Cria VM Geração 1 ou 2
+- Cria o Disco Tipo Fixo
+- Cria o Disco Com Nome da VM No Padrão "VM_1.vhdx" (Geração 1)
+- Cria o Disco Com Nome da VM No Padrão "VM_C.vhdx" (Geração 2)
+- Cria Memória Com a Opção Dinamica Desabilitada
+- Desabilita Secure Boot
+- Inicialização de Boot na ISO
+- Anexa ISO na IDE Controller 1 (Ger1) e SCSI (Ger2)
+- Anexa vSwitch do Hyper-v
+- Configura Vlan (Caso Preenchido)
+- Cria o Diretório Com Nome Da VM
+- Seleciona a Opção "Nothing" Para o "Automatic Start Action" Nas Configurações Da VM
+- Seleciona a Opção "Shut Down" Para o "Automatic Stop Action" Nas Configurações Da VM
+- Liga a VM Após o Deploy
 
 # Diagrama Ambiente Teste
 ![Azure_Diagram](https://github.com/thiagomuller1/Script_Create_VM/assets/87444620/18b99c56-647e-4152-bde3-d0545f79150e)
