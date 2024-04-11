@@ -1,6 +1,15 @@
-# Powershell Script Cria servidores virtuais remotamente
+# Powershell Script Cria Servidores Virtuais Hyper-v
 
-- Perguntas de requisitos solicitada pelo Script
+# Pré-Requisitos
+- Usuario Com Privilegios Administrativos Nos Servidores Hyper-v
+- WinRM Habilitado No Servidor de Origem e Nos Servidores De Destino
+  Você Pode Verificar Com o Comando *Get-Service WinRM* e Ativar Com *Enable-PSRemoting*
+- Sistemas Operacionais Posteriores a Windows Server 2008
+- Firewall Precisa Permitir o Tráfego de Entrada na Porta 5985 para HTTP e a Porta 5986 para HTTPS
+  Pode Configurar Utilizando o cmdlet *New-NetFirewallRule -Name "WinRM Port 5985" -DisplayName "WinRM Port 5985" -Enabled True -Direction Inbound -Protocol TCP -LocalPort 5985 -Action Allow
+*
+  
+  Perguntas Solicitadas Pelo Script
 - Quantos Servidores Hyper-v Serão Usados:?
 - Digite o nome do Servidor Hyper-v:
 - Quantas VM's Serão Criadas no Servidor:
