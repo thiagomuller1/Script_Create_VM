@@ -9,7 +9,7 @@
   Pode Configurar Utilizando o cmdlet *New-NetFirewallRule -Name "WinRM Port 5985" -DisplayName "WinRM Port 5985" -Enabled True -Direction Inbound -Protocol TCP -LocalPort 5985 -Action Allow
 *
   
-  Perguntas Solicitadas Pelo Script
+# Perguntas Solicitadas Pelo Script
 - Quantos Servidores Hyper-v Serão Usados:?
 - Digite o nome do Servidor Hyper-v:
 - Quantas VM's Serão Criadas no Servidor:
